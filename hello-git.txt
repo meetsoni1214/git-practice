@@ -1,3 +1,6 @@
 Hello Git!
 
 Doing the changes from the first branch
+
+Doing the changes from the second branch
+
